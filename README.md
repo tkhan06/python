@@ -1,2 +1,2 @@
 # python
-Python Code
+This is Python Code Tutorial
